@@ -5,7 +5,7 @@
       This is a standard VueJS template. For this challenge, we would like you to do the following:
     </p>
     <ol>
-      <li style="text-align: left;">Use the Faker API <a href="https://fakerapi.it/en" target="_blank">here</a> to retrieve books</li>
+      <li style="text-align: left;">Use the Faker API <a href="https://fakerapi.it/en" target="_blank">here</a> to retrieve books.</li>
       <li style="text-align: left;">Use the data from the API to present the information about the books in a user friendly way.</li>
     </ol>
     <p>Here are some things to think about:</p>

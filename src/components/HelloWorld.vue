@@ -11,8 +11,10 @@
     <p>Here are some things to think about:</p>
     <ul>
       <li style="text-align: left;">General User Experience</li>
+      <li style="text-align: left;">Appropriate Design</li>
       <li style="text-align: left;">Pagination and filtering</li>
       <li style="text-align: left;">Semantics</li>
+      <li style="text-align: left;">Tests</li>
     </ul>
   </div>
 </template>
